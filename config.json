@@ -1,0 +1,15 @@
+{
+    "title": "Hello Dave",
+    "baseURL": "https:\/\/verifyingopenissues.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759046",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "verifyingopenissues.com"
+    }
+}
